@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Akshidhan Wijeratnam
 
-**Full-Stack & Android Software Engineer**  
-📍 Sri Lanka · 📧 wakshiwije@gmail.com · 📞 +94 78 7291 656  
+**Full-Stack Software Engineer**  
+📍 Sri Lanka · 📧 wakshiwije@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshidhan-wijeratnam/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshidhan)
@@ -52,47 +52,6 @@ A motivated Full-Stack and Android Software Engineer with over a year of experie
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
----
-
-## 📂 Notable Projects
-
-### 🍴 **The Gallery Cafe** - *Full-Stack Web Application*
-> **Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL
-- Basic authentication using PHP session management with hashed passwords
-- E-commerce system for a cafe with search & filter functionalities
-- Users can pre-book food or order for takeaway
-
-### 🛍️ **NexaShop** - *Full-Stack E-commerce Platform*
-> **Tech Stack:** React.js, Express.js, Node.js, MongoDB
-- JWT-based authentication with token management on both frontend and backend
-- Multi-role e-commerce platform (Customer, Seller, Admin)
-- Integrated **Stripe Payment** for seamless transactions
-- Advanced search and filter options
-
-### 🧱 **Steel and Stones** - *E-commerce Web Application*
-> **Tech Stack:** HTML, Bootstrap, JavaScript, PHP, MySQL
-- PHP session-based authentication with password hashing
-- E-commerce site with search and filter features
-- **Google OAuth** integration for easier user login
-
----
-
-## 🎓 Education
-
-- **BSc in Software Engineering** – Cardiff Metropolitan University  
-- **Higher Diploma in Computing and Software Engineering** – ICBT Campus  
-
----
-
-## 📜 Certifications
-
-| Certification | Issuer | Date |
-|--------------|--------|------|
-| Developing Front-End Apps with React | IBM | Feb 2025 |
-| Postman API Fundamentals Student Expert | Canvas Credentials (Badgr) | Feb 2025 |
-| Problem Solving (Basic) | HackerRank | Jan 2025 |
-| JavaScript (Basics) | HackerRank | Dec 2024 |
 
 ---
 
