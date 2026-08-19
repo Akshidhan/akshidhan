@@ -17,7 +17,10 @@ A motivated Full-Stack and Android Software Engineer with over a year of experie
 ## 💼 Work Experience
 
 ### **Intern Software Engineer**  
-*Remote, Sri Lanka | April 2025 – Present*
+*Colombo, Sri Lanka | August 2025 – Present*
+
+### **Intern Software Engineer**  
+*Remote, Sri Lanka | April 2025 – November 2025*
 
 - Built end-to-end web applications using **ReactJS, NextJS, NodeJS, and ExpressJS**
 - Designed responsive and visually appealing interfaces with **Tailwind CSS**, improving user retention by **30%**
