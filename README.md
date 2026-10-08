@@ -17,7 +17,7 @@ A motivated Full-Stack and Android Software Engineer with over a year of experie
 ## 💼 Work Experience
 
 ### **Intern Software Engineer**  
-*Colombo, Sri Lanka | August 2025 – Present*
+*Colombo, Sri Lanka | August 2026 – Present*
 
 ### **Intern Software Engineer**  
 *Remote, Sri Lanka | April 2025 – November 2025*
